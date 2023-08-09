@@ -73,9 +73,11 @@
             <div class="d-none d-lg-block">
               <div class="row align-items-start">
             
-                <div class="col me-5 nav-item">
-                <a id="loginButton2" class="nav-link text-bg-light" href="../../web-layanan-aduan/auth/login.php">Login</a>
-                </div>
+              <div class="col nav-item me-4">
+                <button id="" type="button" class="btn btn-info">
+                  <a class="text-white" href="../../web-layanan-aduan/auth/login.php">Login</a>
+                </button>
+              </div>
               </div>
             </div>
           </div>

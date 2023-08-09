@@ -43,9 +43,9 @@ if (isset($_POST['login'])) {
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Login | SI-PEKERBA DISKOMINFO</title>
+    <title>Login | Admin System</title>
     <!-- icon diskominfo -->
-    <link rel="icon" href="../assets/dist/img/diskominfo-logo.png">
+    <link rel="icon" href="../images/Vaficon.ico">
     <!-- Bootstrap CSS -->
     <link rel="stylesheet" href="../assets/plugins/bootstrap4/css/bootstrap.min.css">
     <!-- Custom CSS -->
@@ -61,9 +61,9 @@ if (isset($_POST['login'])) {
                 <img src="../assets/img/login-img.svg" class="img-fluid" alt="login image">
             </div>
             <div class="col-md-6">
-                <a class="btn logo" href="../index.php">SI-PEKERBA</a>
-                <img src="css/diskominfo-logo.png" width="40" height="40">
-                <p class="lead">Dinas Komunikasi dan Informasi Palembang</p>
+                <a class="btn logo" href="../index.php">Admin Sytem</a>
+                <img src="../images/Vaficon.ico" width="40" height="40">
+                <p class="lead">Dinas Administrasi Pembangunan Ponorogo</p>
                 <h4 class="signin-text mb-3">Sign In</h4>
                 <form action="" method="post">
                     <div class="form-group">
@@ -84,8 +84,6 @@ if (isset($_POST['login'])) {
                     <p>Don't have an account? Register here!</p>
                     <a href="sign-up.php" class="btn btn-signup">Sign up</a>
                 </form>
-                <br><center><p>Repost by <a href='https://valcoding.com/' title='valcoding.com' target='_blank'>valcoding.com</a></p></center>
-
             </div>
         </div>
     </div>
