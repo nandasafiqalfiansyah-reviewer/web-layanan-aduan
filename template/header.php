@@ -9,7 +9,6 @@
               <h2 class="text-white text-center p-3 ">
                 layanan aspirasi dan pengaduan Online
               </h2>
-
               <h6 class="text-center text-white p-3">
                 Bagian Administrasi Pembangunan Kabupaten Ponorogo
               </h6>
