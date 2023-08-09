@@ -1,9 +1,7 @@
 <?php 
-
 include "./template/navigasi.php";
 include "./template/router.php";
 
-require './data/function.php';
 ?>
  <header
         class="site-header d-flex flex-column justify-content-center align-items-center"
@@ -31,7 +29,7 @@ require './data/function.php';
               <div class="d-flex align-items-center mt-5">
                 <a
                   href="#topics-detail"
-                  class="btn custom-btn custom-border-btn smoothscroll me-4"
+                  class="btn custom-btn bg-border-black smoothscroll me-4"
                   >Read More</a
                 >
 
@@ -52,12 +50,12 @@ require './data/function.php';
       </header>
 
 
-<div class="container pt-5 ">
+<div class="container pt-5 " id="topics-detail">
   <div class="form-container">
     <div class="col-lg-6 col-12 m-auto"></div>
     <h3 class="mb-4 text-secondary ">Form Buku Tamu</h3>
     <hr/>
-    <form action="" method="POST">
+    <form action="" method="POST" class="mb-4" >
       <div class="form-group mb-3">
         <label for="nama" class="mb-2">Nama</label>
         <input

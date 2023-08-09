@@ -65,8 +65,7 @@
                 <a class="nav-link text-bg-light" href="../../web-layanan-aduan/cekstatus.php" id="openModalLink">Cek Status</a>
               </li>
               <li class="nav-item">
-                <a class="nav-link text-bg-light" href="../../web-layanan-aduan/bukutamu.php"
-                  >Buku Tamu
+                <a class="nav-link text-bg-light" href="../../web-layanan-aduan/bukutamu.php">Buku Tamu
                 </a>
                 <!-- harus diganti ../ -->
               </li>
@@ -75,13 +74,7 @@
               <div class="row align-items-start">
             
                 <div class="col me-5 nav-item">
-                  <button
-                    id="loginButton2"
-                    type="button"
-                    class="btn btn-outline-dark text-bg-light"
-                  >
-                    Login
-                  </button>
+                <a id="loginButton2" class="nav-link text-bg-light" href="../../web-layanan-aduan/auth/login.php">Login</a>
                 </div>
               </div>
             </div>
