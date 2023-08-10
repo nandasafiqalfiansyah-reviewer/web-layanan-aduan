@@ -75,7 +75,6 @@ if (isset($_POST['login'])) {
                         <input type="password" class="form-control" name="password" id="password" required>
                     </div>
                     <div class="form-group form-check">
-
                         <input type="checkbox" class="form-check-input" name="checkbox" id="checkbox">
                         <label for="checkbox" class="form-check-label">Remember Me</label>
                     </div>

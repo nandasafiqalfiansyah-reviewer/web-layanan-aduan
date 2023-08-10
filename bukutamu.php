@@ -3,47 +3,39 @@ include "./template/navigasi.php";
 include "./template/router.php";
 ?>
 
- <header
-        class="site-header d-flex flex-column justify-content-center align-items-center"
-      >
-        <div class="container">
-          <div class="row justify-content-center align-items-center">
-            <div class="col-lg-5 col-12 mb-5">
-              
-
-              <h2 class="text-white">
-                 Sistem<br />
-                 Buku tamu
-              </h2>
-              <nav aria-label="breadcrumb">
-                <ol class="breadcrumb">
-                
-                  <li class="breadcrumb-item active" aria-current="page">
-                    Bagian administrasi Pembangunan Ponorogo
-                  </li>
-                </ol>
-              </nav>
-
-              <div class="d-flex align-items-center mt-5">
-                <a
-                  href="#topics-detail"
-                  class="btn custom-btn bg-border-black smoothscroll me-4"
-                  >Buku tamu</a
-                >
-
-                <a href="#top" class="custom-icon bi-bookmark smoothscroll"></a>
-              </div>
-            </div>
-
-            <div class="col-lg-5 col-12">
-              <div class="topics-detail-block bg-white shadow-lg hover-zoom">
-               
-                <iframe class="topics-detail-block-image" width="450" height="315" src="https://www.youtube.com/embed/4Lwpoak8v04" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-              </div>
-            </div>
-          </div>
+<header
+  class="site-header d-flex flex-column justify-content-center align-items-center"
+>
+  <div class="container">
+    <div class="row justify-content-center align-items-center">
+        <h2 class="text-white">
+          Sistem  Buku tamu<br />
+         
+        </h2>
+        <nav aria-label="breadcrumb">
+          <ol class="breadcrumb">
+            <li class="breadcrumb-item active" aria-current="page">
+              Bagian administrasi Pembangunan Ponorogo
+            </li>
+          </ol>
+        </nav>
+        <div class="d-flex align-items-center mt-2">
+          <a
+            href="#topics-detail"
+            class="btn custom-btn bg-border-black smoothscroll me-4"
+            >Buku tamu</a
+          >
+          <a href="#top" class="custom-icon bi-bookmark smoothscroll"></a>
         </div>
+      </div>
+
+     
+    </div>
+  </div>
 </header>
+
+
+
       <div class="container pt-5 " id="topics-detail">
         <div class="form-container">
           <div class="col-lg-6 col-12 m-auto"></div>
