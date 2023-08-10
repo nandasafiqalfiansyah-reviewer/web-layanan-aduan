@@ -2,6 +2,6 @@
 
 Jika ada revisi list di sini :
 
--
+- menambahkan footer
 -
 -
