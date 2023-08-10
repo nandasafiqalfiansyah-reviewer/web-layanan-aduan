@@ -207,7 +207,7 @@ strong {
   CUSTOM BUTTON               
 -----------------------------------------*/
 .custom-btn {
-  background: var(--custom-btn-bg-color);
+  background: var(--primary-color);
   border: 2px solid transparent;
   border-radius: var(--border-radius-large);
   color: var(--white-color);
@@ -637,7 +637,7 @@ strong {
   TOPICS               
 -----------------------------------------*/
 .topics-detail-block {
-  border-radius: var(--border-radius-medium);
+  border-radius: var(--border-radius-big);
   position: relative;
   overflow: hidden;
 }

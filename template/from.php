@@ -2,6 +2,7 @@
         <div class="container">
           <div class="row justify-content-center">
             <div class="col-lg-10 col-md-10 col-12 mb-4">
+              
               <div class="custom-block bg-white shadow-lg p-4">
                 <form class="container-sm">
                   <h3 class="text-center mb-4 text-secondary ">Sampaikan Laporan Anda</h3>

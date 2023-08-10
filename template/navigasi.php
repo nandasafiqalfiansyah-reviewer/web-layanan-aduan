@@ -29,14 +29,14 @@
   <body id="top">
     <main>
       <!-- navigasi -->
-      <nav class="navbar navbar-expand-lg">
+      <nav class="navbar navbar-expand-lg ">
         <div class="container">
         <a class="navbar-brand" href="#">
             <img src="./images/logo.png" width="40" height="50" srcset="" />
           </a>
           <div class="d-lg-none ms-auto me-3">
             <div class="row align-items-start">
-              <div class="col nav-item me-4">
+              <div class="col nav-item me-4 custom-block">
                 <button id="" type="button" class="btn btn-outline-dark">
                  Login
                 </button>
@@ -58,14 +58,11 @@
             <ul class="navbar-nav ms-lg-5 me-lg-auto">
               <hr />
               <!-- harus diganti -->
-              <li class="nav-item">
-                <a class="nav-link text-bg-light" href="../../web-layanan-aduan/index.php">Layanan Aduan</a>
+              <li class="nav-item ">
+                <a class="nav-link text-bg-light" href="index.php">Layanan Aduan</a>
               </li>
               <li class="nav-item">
-                <a class="nav-link text-bg-light" href="../../web-layanan-aduan/cekstatus.php" id="openModalLink">Cek Status</a>
-              </li>
-              <li class="nav-item">
-                <a class="nav-link text-bg-light" href="../../web-layanan-aduan/bukutamu.php">Buku Tamu
+                <a class="nav-link text-bg-light" href="bukutamu.php">Buku Tamu
                 </a>
                 <!-- harus diganti ../ -->
               </li>
@@ -74,7 +71,7 @@
               <div class="row align-items-start">
             
               <div class="col nav-item me-4">
-                <button id="" type="button" class="btn btn-info">
+                <button id="" type="button" class="btn bg-border-black smoothscroll btn-info">
                   <a class="text-white" href="../../web-layanan-aduan/auth/login.php">Login</a>
                 </button>
               </div>
