@@ -10,13 +10,13 @@ sebelum melakukan edit, lakukan pull dulu
 
 nama revisi |  tanggal revisi | Komentar
 
-## ridwan
+## ridwan  (*tambahan tolong perbaiki tampilan user semua yha*)
 - 
 -
 -
 
 ## nanda
-- 
+- melakukan revisi dashboard admin  | 8/11/2023 | khusus admin 
 -
 -
 
